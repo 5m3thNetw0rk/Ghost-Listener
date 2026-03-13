@@ -1,0 +1,4 @@
+venv/
+__pycache__/
+ghost_hits.log
+.DS_Store
